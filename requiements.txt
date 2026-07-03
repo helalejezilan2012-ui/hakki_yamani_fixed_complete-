@@ -1,1 +1,1 @@
-urllib
+(flutter, flutter_localizations	, flutter_test , flutter_lints , provider , flutter_riverpod , go_router)	
